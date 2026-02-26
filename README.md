@@ -138,3 +138,7 @@ streamlit run app.py
 ## 👩‍💻 Author
 
 Nighitha T. N.
+
+---
+
+### ⭐ If you found this project interesting, feel free to star the repository!
