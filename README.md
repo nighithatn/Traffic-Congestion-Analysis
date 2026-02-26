@@ -95,6 +95,15 @@ A Logistic Regression model was implemented to:
 
 ---
 
+<h2 align="center">🖥 Streamlit Dashboard Preview</h2>
+
+<p align="center">
+  <img src="images/dashboard_view1.png" width="45%" />
+  <img src="images/dashboard_view2.png" width="45%" />
+</p>
+
+---
+
 ## 📌 Final Conclusion
 
 This project successfully identified traffic congestion using rule-based analysis supported by exploratory data visualization.  
